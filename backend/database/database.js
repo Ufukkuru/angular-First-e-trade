@@ -1,6 +1,6 @@
 const mongoose = require("mongoose")
 
-const uri = "mongodb+srv://uege70:1Trolza2@eticaretdb.psxxeqk.mongodb.net/?retryWrites=true&w=majority"
+const uri = "mongodb link"
 
 const connection = () =>{
     mongoose.connect(uri,{
